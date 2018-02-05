@@ -1,0 +1,13 @@
+Setup:
+1. Dowload & make the demo app.
+1.a. For Linux & Mac OS: run these commands in Terminal:
+  go get -u github.com/tumarsal/demo-go
+ cd ~/go/src/github.com/tumarsal/demo-go
+ make
+1.b. For Windows: run these command in Command prompt:
+ go get -u github.com/tumarsal/demo-go
+ cd %HOMEPATH%\go\src\github.com\tumarsal\demo-go
+ run.bat
+
+2. Open app service in browser.
+Address: localhost:6060
